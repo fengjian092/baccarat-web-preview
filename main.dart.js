@@ -1,1 +1,1 @@
-// 模擬 Dart JS 編譯內容
+// Dummy content for main.dart.js

@@ -1,2 +1,1 @@
-// Simulated flutter_service_worker.js for demo purposes
-self.addEventListener('fetch', () => {});
+// Dummy content for flutter_service_worker.js

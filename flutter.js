@@ -1,1 +1,1 @@
-// 模擬 Flutter runtime
+// Dummy content for flutter.js
