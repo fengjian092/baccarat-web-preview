@@ -1,1 +1,1 @@
-flutter build web --base-href="/baccarat-web-preview/"
+// Dummy content for flutter.js
